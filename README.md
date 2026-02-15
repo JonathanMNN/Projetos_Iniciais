@@ -7,17 +7,17 @@ Este projeto reúne exercícios e mini-projetos desenvolvidos para fortalecer mi
 
 🎯 Objetivo
 
-Construir uma base sólida em:
+- Construir uma base sólida em:
 
-Estrutura de bancos de dados
+- Estrutura de bancos de dados
 
-Consultas SQL
+- Consultas SQL
 
-Manipulação de dados
+- Manipulação de dados
 
-Pensamento lógico aplicado a dados
+- Pensamento lógico aplicado a dados
 
-Conceitos utilizados em empresas e instituições financeiras
+- Conceitos utilizados em empresas e instituições financeiras
 
 🧠 Conceitos Aplicados
 
@@ -36,10 +36,7 @@ Conceitos utilizados em empresas e instituições financeiras
 
 🛠 Tecnologias Utilizadas
 
-MySQL
 
 SQL Server
-
-Oracle (conceitual)
 
 Linguagem SQL
