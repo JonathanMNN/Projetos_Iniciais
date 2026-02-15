@@ -1,0 +1,48 @@
+🛒 Sistema de Vendas em SQL
+
+Projeto que simula um **sistema de vendas**, comum em empresas comerciais
+e plataformas de e-commerce.
+
+---
+
+🎯 Objetivo
+- Criar banco de dados de vendas
+- Relacionar produtos e pedidos
+- Praticar consultas com agrupamento
+- Analisar dados comerciais
+
+---
+
+🧠 Conceitos Trabalhados
+- Modelagem de dados
+- Relacionamento entre tabelas
+- GROUP BY
+- Funções agregadas (SUM, COUNT)
+- Consultas com filtros
+
+---
+
+🗂 Estrutura do Banco
+- **produtos**: catálogo de produtos
+- **pedidos**: pedidos realizados
+- **itens_pedido**: produtos vendidos em cada pedido
+
+---
+
+📊 Exemplos de Análises
+- Produtos mais vendidos
+- Total de itens por pedido
+- Volume de vendas
+
+---
+
+💼 Contexto Profissional
+Muito utilizado em:
+- Sistemas comerciais
+- ERPs
+- Plataformas de vendas online
+
+---
+
+🚀 Tecnologias
+- SQL
